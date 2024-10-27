@@ -8,4 +8,6 @@ HTTP, Sockets, CSV, DataFrames, LinearAlgebra, StaticArrays, JSON
 
 Run the Julia_Flight_Simulator.jl, it will automatically open Microsoft Edge and will start the simulation
 
-In this version you need to use a gamepad (Xbox style).
+In this version you need to use a gamepad (Xbox style). The "START" button will reset the simulation and the "SELECT" button will switch to a pilot camera. 
+
+
